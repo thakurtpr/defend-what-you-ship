@@ -1,0 +1,12 @@
+{
+  "name": "defend-what-you-ship",
+  "owner": { "name": "thakurtpr" },
+  "plugins": [
+    {
+      "name": "defend-what-you-ship",
+      "source": "./",
+      "description": "Keep AI-assisted code defensible: doc trail, pre-ship gate, whiteboard drill, allow policy.",
+      "version": "1.1.0"
+    }
+  ]
+}
