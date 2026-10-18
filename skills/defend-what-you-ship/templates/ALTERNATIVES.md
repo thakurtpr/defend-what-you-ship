@@ -1,0 +1,6 @@
+# ALTERNATIVES
+
+## <decision this relates to, e.g. D-014>
+Rejected: <option A>  - cost/risk: ...  - gave up by choosing: ...
+Rejected: <option B>  - cost/risk: ...
+Revisit if: <condition>
